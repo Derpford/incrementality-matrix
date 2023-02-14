@@ -20,7 +20,7 @@ Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d
 | 8  | Taxes       | Cups (Grit)         | Coins (Viscosity)  | Fate (Brainitude)    |
 | 9  | Combat      | Blades (Grit)       | Wands (Moxie)      | Cloaks (Pulchritude) |
 | 10 | Power       | Flood (Grit)        | Sand (Scamperway)  | Stone (Viscosity)    |
-| 11 | Imagination | Dream (Brainitude)  | Rain (Pulchritude) | Mist (Moxie)         |
+| 11 | Imagination | Dream (Brainitude)  | Moon (Pulchritude) | Fae (Moxie)          |
 | 12 | Story       | Stage (Brainitude)  | Ploy (Moxie)       | Flux (Pulchritude)   |
 ## Aspect Descriptions
 ### Reality Triad
@@ -119,9 +119,9 @@ The Imagination Triad deals with the mind, thoughts, and sanity.
 
 Dream is the aspect of structured creativity, and the process of creating something. A mind is a machine for following and creating instructions. Dream deals with those instructions, producing grand creations by organizing their parts and feeding them through a mental factory. The things Dream creates are classically beautiful. Dream players do not like being interrupted when they're in The Zone.
 
-Rain is the aspect of madness and rampancy. A mind is a wonderful thing to waste. Rain helps you waste it in such wonderful ways! Rain deals with making things topsy-turvy, helping you forget what bothers you and coming up with lovely replacements. Rain's creations make other people's heads start to hurt, but why should you care? You can see them just fine. Rain players are utterly bonkers, and their madness can spread into game constructs.
+Moon is the aspect of madness and rampancy. A mind is a wonderful thing to waste. Moon helps you waste it in such wonderful ways! Moon deals with making things topsy-turvy, helping you forget what bothers you and coming up with lovely replacements. Moon's creations make other people's heads start to hurt, but why should you care? You can see them just fine. Moon players are utterly bonkers, and their madness can spread into game constructs.
 
-Mist is the aspect of replication and imitation. A mind is at its best when it can send copies of its thoughts to other minds. Mist deals with making it easier to copy your thoughts, particularly by copying you. Mist can also copy other things, of course. Imitation is the sincerest form of flattery, and you can flatter with the best of them. Figuring out which Mist player is the *original* is a difficult task.
+Fae is the aspect of replication and imitation. A mind is at its best when it can send copies of its thoughts to other minds. Fae deals with making it easier to copy your thoughts, particularly by copying you. Fae can also copy other things, of course. Imitation is the sincerest form of flattery, and you can flatter with the best of them. Figuring out which Fae player is the *original* is a difficult task.
 
 ### Story Triad
 The Story Triad deals with narratives and the legend of your life.
