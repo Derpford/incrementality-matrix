@@ -1,9 +1,9 @@
 # Class Pairs
 Each class is organized into pairs, each of which consists of an Active title and a Passive title. The details of what this means are complicated and not necessarily set in stone; this will be elaborated on in the description of each class.
 
-| Grit                  | Viscosity               | Moxie                   | Scamperway             | Brainitude            | Pulchritude           | ?????                  |
-|-----------------------|-------------------------|-------------------------|------------------------|-----------------------|-----------------------|------------------------|
-| ???/Heir, Prince/Bard | Page/Knight, Dame/Guard | Witch/Mage,  Clown/Maid | Scout/Guide, Smith/??? | Sylph/Bane, Sage/Seer | Thief/Rogue,  ???/??? | Lord/Muse, Waste/Grace |
+| Grit                                            | Viscosity                                            | Moxie                                              | Scamperway                                     | Brainitude                                   | Pulchritude                                   | ?????                                        |
+|-------------------------------------------------|------------------------------------------------------|----------------------------------------------------|------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|
+| Boon/Bane, Fiend/Heir, Prince/Bard, Shield/Mask | Page/Knight, Dame/Guard, King/Queen, Scales/Strength | Witch/Mage,  Smith/Sign, Knave/Damned, Priest/Seal | Scout/Guide, Judge/Wheel, Jack/Bride, Hand/Eye | Sylph/Gnome, Sage/Seer, Moon/Star, Soul/Monk | Thief/Rogue,  Clown/Maid, Fool/Death, Ace/Spy | Lord/Muse, Waste/Grace, Dawn/Dusk, Sun/World |
 # Aspect Triads
 Each Aspect is placed within a themed Triad, and has some connection to the other two Aspects within that Triad.
 Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d12 to pick a Triad, then rolling 1d3 to pick an Aspect from that Triad. Note that all valid sessions (i.e., not null) must have a Space and Time player. It is acceptable to reuse Aspects, but most sessions won't need to, since you only need to reuse Aspects if you have more than 36 players.
