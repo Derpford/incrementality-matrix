@@ -1,9 +1,98 @@
 # Class Pairs
-Each class is organized into pairs, each of which consists of an Active title and a Passive title. The details of what this means are complicated and not necessarily set in stone; this will be elaborated on in the description of each class.
+Each class is organized into pairs, each of which consists of an Active title and a Passive title. The details of what this means are complicated and not necessarily set in stone; this will be elaborated on in the description of each class. The short version is that the Active class is typically 'selfish', using its powers to directly affect itself, while the Passive class is 'selfless' and focuses more on empowering others or affecting others.
+
+Classes are further defined by their role within the story, typically expressed in terms of their Aspect.
 
 | Grit                                            | Viscosity                                            | Moxie                                              | Scamperway                                     | Brainitude                                   | Pulchritude                                   | ?????                                        |
 |-------------------------------------------------|------------------------------------------------------|----------------------------------------------------|------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|
-| Boon/Bane, Fiend/Heir, Prince/Bard, Shield/Mask | Page/Knight, Dame/Guard, King/Queen, Scales/Strength | Witch/Mage,  Smith/Sign, Knave/Damned, Priest/Seal | Scout/Guide, Judge/Wheel, Jack/Bride, Hand/Eye | Sylph/Gnome, Sage/Seer, Moon/Star, Soul/Monk | Thief/Rogue,  Clown/Maid, Fool/Death, Ace/Spy | Lord/Muse, Waste/Grace, Dawn/Dusk, Sun/World |
+| Boon/Bane, Fiend/Heir, Prince/Bard, Mask/Shield | Knight/Page, Dame/Guard, King/Queen, Scales/Strength | Witch/Mage,  Smith/Sign, Knave/Damned, Priest/Seal | Scout/Guide, Judge/Wheel, Jack/Bride, Hand/Eye | Sylph/Gnome, Sage/Seer, Moon/Star, Soul/Monk | Thief/Rogue,  Clown/Maid, Fool/Death, Ace/Spy | Lord/Muse, Waste/Grace, Dawn/Dusk, Sun/World |
+
+## Grit Classes
+### Boon/Bane - One who rains [aspect] upon others
+The Boon and Bane are Classes which shower others with their aspect, bringing great destruction or mighty gifts.
+
+The Boon is actually the *active* class of the pair, despite its tendency to give "gifts". The Boon's actual powerset revolves around manipulating others and building a structure underneath itself, using its aspect as a carrot to get other people to do its dirty work. 
+
+For example: The Boon of Wands will offer their services as a tactician...but only because they can achieve some of their own goals while leading you into battle.
+
+The Bane is a straightforward, simple class: It has a territory, and it will bring its aspect down upon whoever invades that territory. Of course, that 'territory' is usually the Bane's friends, which is what makes the Bane the passive class of this pair. 
+
+For example: the Bane of Life is the healer you always wish you had when doing raids in your favorite MMO. They're also the angriest, saltiest, most dangerous healer main you've ever met, so be thankful that they're busy shredding whatever you almost died to.
+
+### Fiend/Heir - One who receives [aspect]
+The Fiend and Heir are Classes which have their aspect bestowed upon them--the question being, is that a good thing?
+
+The Fiend is the active class of the pair, and is *tempted* by their aspect. They could be very powerful if they accept this gift, but the end result is terrible destruction--Fiend abilities tend to be hard to aim, cause lots of AoE destruction, or otherwise have terrible costs. Usually the cost is something that someone *else* has to bear, but Fiend players are always personally affected by it--either because their conscience weighs on them, or because someone they care about got hurt. 
+
+For example, a Fiend of Heart is constantly tempted by the ability to just...*fix* people. It would be *so convenient* to just reach into your Heart Thing and poke a few variables and just make you *better*.
+
+The Heir is the passive class of this pair, and has their aspect *thrust upon them*. Power comes with responsibility, and the Heir is concerned with whether they can really handle that responsibility. Annoyingly, the Heir almost never deals with the same consequences that the Fiend does, because SBURB runs on vibes and storytelling; if the story has decided that you're the guy who angsts over whether it's the right choice, and then turns out to be actually a competent leader, then you'll always end up being a competent leader. That said, the Heir has an important role in doing the ectobiology that makes it possible for the players to exist outside of their reality, so maybe it's a good thing that Heirs almost never make mistakes.
+
+For example, the Heir of Cloaks might stumble into a metaphorical Ring of Gyges, an exploit that breaks the game hard enough to permanently alter the structure of the session. If you feel like being particularly unimaginitive, or just feel like stealing from a shitty person, it might be a literal invisibility cloak. There'll be much hemming and hawing about the morality of using this item, and then it'll save everyone's life and suddenly everything's cool.
+
+### Prince/Bard - One who concludes with [aspect]
+The Prince and Bard both have to do with *ending the story*, and ending things in general. Their aspect is deeply tied to the end of an important chapter in the story.
+
+The Prince--being the active member of this pair--is a heroic warrior, capable of slaying almighty foes with their aspect--but more importantly, they're also capable of slaying *the aspect itself*. The Prince is, inevitably, the one who strikes the final blow on their aspect--concluding an act of this demented stageplay with a decisive blow. Expect the Prince to be kind of upset about this. After all, they're usually intimately familiar with the aspect they just killed.
+
+For example, a Prince of Cups will grow more and more powerful as they gain more and more stuff, but they'll eventually reach a point where greed *is* their opponent, and the only way to truly progress through the story is to kill greed itself--an act which will leave the Prince of Cups almost powerless, shaken to their core.
+
+The Bard, as the passive member, works to end the story in the background--weaving their aspect into everything they touch, until it all comes together in a climactic moment that you never saw coming but always knew would happen. Bards will either singlehandedly save the entire session with a plan that only they understood, or singlehandedly doom the entire session by casually shattering everything you were working on. Bards are capital-F Fun (the 'F' stands for "fuck these guys").
+
+For example, a Bard of Rage...well, you've probably read Homestuck, you know what happened in the session that had a Bard of Rage in it. (Spoilers: Everyone died.)
+
+### Mask/Shield - One who covers with [aspect]
+The Mask and the Shield are hyperfocused on infusing their aspect into either themselves or others. 
+
+The Mask can put on their aspect like, well, a mask--becoming like their aspect, as long as they can keep up the charade. If you're not into theater or tokusatsu, this class might not click for you. It's important to remember that the Mask is wearing a *mask*--they aren't *really* their aspect, they just play it on TV. At some point, the mask has to come off.
+
+For example, the Mask of Joy can become the embodiment of wacky hijinks, but they can't wear The Mask forever--not without suffering some serious Weird Identity Crisis Shit.
+
+The Shield is a protector and defender, filling others with their aspect to shield them from harm. The Shield can't really defend themself--their powers are just *weaker* when self-targeted, which pairs 'nicely' with conditional immortality. A Shield player is particularly vulnerable to toxic selflessness--everyone else always comes first, even when it might kill the Shield.
+
+For example, the Shield of Stone can suffuse other players with the raw immovability of a mountain, making them nearly impossible to kill.
+
+## Viscosity Classes
+### Knight/Page - One who wields [aspect]
+The Knight and Page are both heavily focused on combat applications of their aspect.
+
+Knights are typically the most powerful players in the starting phase of the game, particularly if they're able to use the Time aspect to access gear from a timeline that reached endgame without winning. They have the best direct access to their aspect, and are the most direct when using it. Simply put, there is no beating a Knight in an asskicking contest; they are simply the best there is...at first. Other classes scale better, as the Knight can only truly shine in one-on-one combat.
+
+For example, a Knight of Blades has total, inalienable mastery over all aspects of physical battle. 
+
+The Page is the opposite of the Knight--not only is the Page weaker than the Knight in direct combat at the start of the game, they're also typically *deficient* in their aspect, suffering from some debilitation or crippling flaw that makes them less effective. However, the Page is the single most powerful class in terms of how quickly it scales up--a Page who has achieved lategame status is capable of defeating even a Master Class.
+
+### Dame/Guard - One who enshrines [aspect]
+
+### King/Queen - One who is ordained by [aspect]
+
+### Scales/Strength - One who tempers [aspect]
+
+## Moxie Classes
+### Witch/Mage - One who mystifies with [aspect]
+### Smith/Sign - One who makes [aspect] anew
+### Knave/Damned - One who is cursed with [aspect]
+### Priest/Seal - One who fights corruption through [aspect]
+## Scamperway Classes
+### Scout/Guide - One who explores the possibilities of [aspect]
+### Judge/Wheel - One whose [aspect] is justice
+### Jack/Bride - One whose fate is [aspect]
+### Hand/Eye - One who coordinates [aspect]
+## Brainitude Classes
+### Gnome/Sylph - One who heals with [aspect]
+### Sage/Seer - One who understands [aspect]
+### Moon/Star - One whose [aspect] ebbs and flows
+### Soul/Monk - One whose [aspect] inspires humility
+## Pulchritude Classes
+### Thief/Rogue - One who steals [aspect]
+### Clown/Maid - One who entertains [aspect]
+### Fool/Death - One whose legend is [aspect]
+### Ace/Spy - One who impresses [aspect] upon others
+## Mastery Classes
+### Lord/Muse - One who is master of [aspect]
+### Waste/Grace - One who creates and destroys [aspect]
+### Dawn/Dusk - One who begins and ends with [aspect]
+### Sun/World - One who sees [aspect] in all things
 # Aspect Triads
 Each Aspect is placed within a themed Triad, and has some connection to the other two Aspects within that Triad.
 Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d12 to pick a Triad, then rolling 1d3 to pick an Aspect from that Triad. Note that all valid sessions (i.e., not null) must have a Space and Time player. It is acceptable to reuse Aspects, but most sessions won't need to, since you only need to reuse Aspects if you have more than 36 players.
@@ -22,6 +111,7 @@ Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d
 | 10 | Power       | Flood (Grit)        | Sand (Scamperway)  | Stone (Viscosity)    |
 | 11 | Imagination | Dream (Brainitude)  | Moon (Pulchritude) | Fae (Moxie)          |
 | 12 | Story       | Stage (Brainitude)  | Ploy (Moxie)       | Flux (Pulchritude)   |
+
 ## Aspect Descriptions
 ### Reality Triad
 The Reality Triad deals with the fabric of reality itself.
