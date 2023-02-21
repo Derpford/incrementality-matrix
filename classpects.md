@@ -1,21 +1,23 @@
 # Class Pairs
 Each class is organized into pairs, each of which consists of an Active title and a Passive title. The details of what this means are complicated and not necessarily set in stone; this will be elaborated on in the description of each class. The short version is that the Active class is typically 'selfish', using its powers to directly affect itself, while the Passive class is 'selfless' and focuses more on empowering others or affecting others.
 
-Classes are further defined by their role within the story, typically expressed in terms of their Aspect.
+Classes are further defined by their role within the story, typically expressed in terms of their Aspect. It's important to note that, traditionally, a Class is assigned to whoever fits it the *least* at the start of the game. This is because SBURB wants you to have a character arc, and the best way it can do that is by giving you a class that you have to grow into or die. The GM will grant you Role Proficiency Points (RP Points) if you do things that play into your journey to become more like your class.
 
-| Grit                                            | Viscosity                                            | Moxie                                              | Scamperway                                     | Brainitude                                   | Pulchritude                                   | ?????                                        |
+Finally, each class is grouped by which stat is its Primary Stat. Some calculations use your class's Primary Stat. **Classes that use Mastery as a Primary Stat cannot be obtained normally--they're reserved for special circumstances.**
+
+| Grit                                            | Viscosity                                            | Moxie                                              | Scamperway                                     | Brainitude                                   | Pulchritude                                   | Mastery                                      |
 |-------------------------------------------------|------------------------------------------------------|----------------------------------------------------|------------------------------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------------|
-| Boon/Bane, Fiend/Heir, Prince/Bard, Mask/Shield | Knight/Page, Dame/Guard, King/Queen, Scales/Strength | Witch/Mage,  Smith/Sign, Knave/Damned, Priest/Seal | Scout/Guide, Judge/Wheel, Jack/Bride, Hand/Eye | Sylph/Gnome, Sage/Seer, Moon/Star, Soul/Monk | Thief/Rogue,  Clown/Maid, Fool/Death, Ace/Spy | Lord/Muse, Waste/Grace, Dawn/Dusk, Sun/World |
+| Boon/Bane, Fiend/Heir, Prince/Bard, Mask/Shield | Knight/Page, Dame/Guard, King/Queen, Strength/Scales | Witch/Mage,  Smith/Sign, Knave/Damned, Priest/Seal | Scout/Guide, Judge/Wheel, Jack/Bride, Hand/Eye | Sylph/Gnome, Sage/Seer, Moon/Star, Soul/Monk | Thief/Rogue,  Clown/Maid, Fool/Death, Ace/Spy | Lord/Muse, Waste/Grace, Dawn/Dusk, Sun/World |
 
 ## Grit Classes
 ### Boon/Bane - One who rains [aspect] upon others
 The Boon and Bane are Classes which shower others with their aspect, bringing great destruction or mighty gifts.
 
-The Boon is actually the *active* class of the pair, despite its tendency to give "gifts". The Boon's actual powerset revolves around manipulating others and building a structure underneath itself, using its aspect as a carrot to get other people to do its dirty work. 
+The Boon is actually the *active* class of the pair, despite its tendency to give "gifts". The Boon's actual powerset revolves around manipulating others and building a structure underneath itself, using its aspect as a carrot to get other people to do its dirty work. A Boon player's gifts always serve two purposes--they're actually making a trade, setting up a partnership, or asking you to save their ass and sweetening the deal while they're at it. Strictly speaking, not all Boon players are rich-kid assholes; they generally want their actions to be mutually beneficial, and won't just order you around for no reason. That said, Boon players are the guys who are most likely to think that their powers can buy your loyalty--even if they didn't need to buy that loyalty in the first place.
 
 For example: The Boon of Wands will offer their services as a tactician...but only because they can achieve some of their own goals while leading you into battle.
 
-The Bane is a straightforward, simple class: It has a territory, and it will bring its aspect down upon whoever invades that territory. Of course, that 'territory' is usually the Bane's friends, which is what makes the Bane the passive class of this pair. 
+The Bane is a straightforward, simple class: It has a territory, and it will bring its aspect down upon whoever invades that territory. Of course, that 'territory' is usually the Bane's friends, which is what makes the Bane the passive class of this pair. Banes are that one 'friend' you have who's always bristly and grumpy and you don't really know why you hang out with them...until someone threatens you, and then they turn that bristly grumpy angry face up to 11 and direct *all* the rage--*ALL* of it--at whoever DARED to threaten *THEIR* friend. You will sometimes wonder if you're the Bane's friend, or just their favorite squishy. Either way, the Bane will have your back.
 
 For example: the Bane of Life is the healer you always wish you had when doing raids in your favorite MMO. They're also the angriest, saltiest, most dangerous healer main you've ever met, so be thankful that they're busy shredding whatever you almost died to.
 
@@ -56,17 +58,48 @@ For example, the Shield of Stone can suffuse other players with the raw immovabi
 ### Knight/Page - One who wields [aspect]
 The Knight and Page are both heavily focused on combat applications of their aspect.
 
-Knights are typically the most powerful players in the starting phase of the game, particularly if they're able to use the Time aspect to access gear from a timeline that reached endgame without winning. They have the best direct access to their aspect, and are the most direct when using it. Simply put, there is no beating a Knight in an asskicking contest; they are simply the best there is...at first. Other classes scale better, as the Knight can only truly shine in one-on-one combat.
+Knights are typically the most powerful players in the starting phase of the game, particularly if they're able to use the Time aspect to access gear from a timeline that reached endgame without winning. They have the best direct access to their aspect, and are the most direct when using it. Simply put, there is no beating a Knight in an asskicking contest; they are simply the best there is...at first. Other classes scale better, as the Knight can only truly shine in one-on-one combat. Aspects such as Time or Fae that enable you to be in many places at once completely eliminate this downside...if you can stay coordinated. Make sure you keep a close eye on the Knight's emotional health, because they'll be too busy getting shit done to take care of themselves.
 
 For example, a Knight of Blades has total, inalienable mastery over all aspects of physical battle. 
 
-The Page is the opposite of the Knight--not only is the Page weaker than the Knight in direct combat at the start of the game, they're also typically *deficient* in their aspect, suffering from some debilitation or crippling flaw that makes them less effective. However, the Page is the single most powerful class in terms of how quickly it scales up--a Page who has achieved lategame status is capable of defeating even a Master Class.
+The Page is the opposite of the Knight--not only is the Page weaker than the Knight in direct combat at the start of the game, they're also typically *deficient* in their aspect, suffering from some debilitation or crippling flaw that makes them less effective. However, the Page is the single most powerful class in terms of how quickly it scales up--a Page who has achieved lategame status is capable of defeating even a Master Class. Pages are a real lifesaver, if you can keep them alive long enough. They're also generally wholesome people who don't deserve this kinda treatment.
+
+For example, a Page of Coins would be saddled with some seriously unfair setbacks...and then they'll be able to reduce 50% of the enemy forces to dust in a snap of their fingers. Totally unbalanced, as all things should be.
 
 ### Dame/Guard - One who enshrines [aspect]
+The Dame and the Guard are classes who hold their aspect in high regard, and use it as powerful armor.
+
+The Dame is a bulwark whose aspect is the source of their incredible power. As an active class, their power affects them directly, but it typically comes from somewhere else--a place of power, a confidante, or some other thing outside of their control. Think of the Dame like a Cleric--they have to call upon their aspect's favor to make their powers work. Dames hold total confidence, only losing their cool on rare occasions when the sheer bullshittery is simply too much. Despite the name, the Dame class can actually be given to a character of any gender, because SBURB's devs are too incompetent to successfully enforce gender norms. Yay?
+
+For example, a Dame of Flood might have a particularly impressive gymnasium somewhere on their Land, where they can go to commune with Flood through the power of MASSIVE GAINS, allowing them to manifest great feats of strength on the battlefield.
+
+The Guard is a loyal ally who calls upon their aspect in a manner similar to the Dame, but always in service of some third party. The Dame will call upon their aspect so they can personally lay the beatdown on something; the Guard will call upon their aspect because someone in the party is about to get beaten down, and a beatdown reversal is in order. Guards will laugh boisterously and shout "WHAT HO, VILLAIN" and stuff. It's cheesy, but they take genuine joy in running to other people's aid. Even when it's a bad idea. Leroy Jenkins was probably a Guard.
+
+For example, a Guard of Vision will appear out of nowhere, surround a boss with illusory copies of themself, and then snap off a dumb one-liner as they carry an injured ally to safety. Some real shadow clone jutsu shit.
 
 ### King/Queen - One who is ordained by [aspect]
+The King and Queen draw their power from their aspect, but in more of a predestination, "I am the incarnation of [aspect]'s will'" way.
 
-### Scales/Strength - One who tempers [aspect]
+Remember, classes in SBURB are gender-neutral even when it sounds like they aren't. Girls can be King of things, boys can be Queens, and non-binary eldritch genderfuck constructs can be...anything, really, that's kind of the point.
+
+The King is basically an avatar of their aspect, becoming nearly indistinguishable from it at the end of their power scaling. They have a one-track mind--if it's in line with their aspect, it's a good idea; if it's not, they start getting nervous about it. They can still accept plans that require something that's against their aspect--they're not Lawful Stupid. They *will*, however, be complaining about it the entire time, particularly if the thing they're doing is "dishonorable".
+
+For example, a King of Law will become hyper-focused on regulating and restricting things, using decrees and rules to guide all of their actions. And they'll throw a fit if your plan involves stealing anything. They'll be a total narc, even if they know this is the only path forward.
+
+The Queen is more focused on maintaining a kingdom, bringing the will of their aspect through their actions by building the people around them up with it. Instead of embodying their aspect's will directly, the Queen seeks to build a world where their aspect is part of everyday life. A lot of aspects sound like they'd make *terrible* kingdoms, but the Queen inevitably finds a way to make it sound like a really cool idea. Queens are great at providing long-term buffs that become extremely powerful once the Queen has built the kingdom up enough.
+
+For example, a Queen of Flux will extoll the virtues of making life more like it is in stories, seeking to create the fairytale land where everyone can live happily ever after.
+
+### Strength/Scales - One who tempers [aspect]
+Strength and Scales are all about using their aspect in moderation, or to moderate themselves.
+
+Strength wants to focus inward on their aspect, becoming stronger by finding their aspect within. Strength players are at their best when they've made some important self-discovery, or when they've had a whole session of important self-discoveries all stacked on top of each other like some kind of metaphorical omniburger. Going 100% all the time isn't the best move for Strength--anybody who's done a workout knows that the correct amount varies from time to time. These guys specialize in the kind of crazy martial arts bullshit where they find the *one* strike that ends the entire fight, and just do that.
+
+For example, the Strength of Sand will be at their most powerful when they have a thorough understanding of their own weaknesses, especially if they realize that the thing they're fighting has the exact same weakness.
+
+Scales is all about achieving a perfect balance of one's aspect through finding it in the world. It's the class of temperance, always looking to have just the right amount of whatever their aspect represents, and always looking to show their allies the value of restraint. These are the traditional druid/monk type guys, who are always talking about inner peace, self-awareness, and tranquility. Even while they're beating the crap out of something. In fact, beating the crap out of something is usually a means of blowing off steam and realigning their inner balance, and if they invite you to participate, you'll feel a lot better after the fisticuffs jam session is over.
+
+For example, the Scales of Void will seek to strike the perfect balance of minimalism--teaching the others how to meditate, so they can become one with nothing, so that the party can make their fists one with everything more easily.
 
 ## Moxie Classes
 ### Witch/Mage - One who mystifies with [aspect]
