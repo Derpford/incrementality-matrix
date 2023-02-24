@@ -75,7 +75,7 @@ For example, a Dame of Flood might have a particularly impressive gymnasium some
 
 The Guard is a loyal ally who calls upon their aspect in a manner similar to the Dame, but always in service of some third party. The Dame will call upon their aspect so they can personally lay the beatdown on something; the Guard will call upon their aspect because someone in the party is about to get beaten down, and a beatdown reversal is in order. Guards will laugh boisterously and shout "WHAT HO, VILLAIN" and stuff. It's cheesy, but they take genuine joy in running to other people's aid. Even when it's a bad idea. Leroy Jenkins was probably a Guard.
 
-For example, a Guard of Vision will appear out of nowhere, surround a boss with illusory copies of themself, and then snap off a dumb one-liner as they carry an injured ally to safety. Some real shadow clone jutsu shit.
+For example, a Guard of Eyes will appear out of nowhere, surround a boss with illusory copies of themself, and then snap off a dumb one-liner as they carry an injured ally to safety. Some real shadow clone jutsu shit.
 
 ### King/Queen - One who is ordained by [aspect]
 The King and Queen draw their power from their aspect, but in more of a predestination, "I am the incarnation of [aspect]'s will'" way.
@@ -103,6 +103,9 @@ For example, the Scales of Void will seek to strike the perfect balance of minim
 
 ## Moxie Classes
 ### Witch/Mage - One who mystifies with [aspect]
+The Witch and the Mage are classes that focus on doing really crazy Weird Aspect Shit. They're spellcasters, basically.
+
+The Witch 
 ### Smith/Sign - One who makes [aspect] anew
 ### Knave/Damned - One who is cursed with [aspect]
 ### Priest/Seal - One who fights corruption through [aspect]
@@ -130,6 +133,8 @@ For example, the Scales of Void will seek to strike the perfect balance of minim
 Each Aspect is placed within a themed Triad, and has some connection to the other two Aspects within that Triad.
 Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d12 to pick a Triad, then rolling 1d3 to pick an Aspect from that Triad. Note that all valid sessions (i.e., not null) must have a Space and Time player. It is acceptable to reuse Aspects, but most sessions won't need to, since you only need to reuse Aspects if you have more than 36 players.
 
+**The Chessboard and Billiards Triads are special; their Aspects cannot be obtained normally.**
+
 | #  | Triad Name  | Aspects             |                    |                      |
 |----|-------------|---------------------|--------------------|----------------------|
 | 1  | Reality     | Time (Scamperway)   | Space (Moxie)      | Law (Viscosity)      |
@@ -137,13 +142,15 @@ Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d
 | 3  | Emotion     | Hope (Moxie)        | Rage (Grit)        | Joy (Scamperway)     |
 | 4  | Body        | Breath (Scamperway) | Blood (Viscosity)  | Bone (Brainitude)    |
 | 5  | Cycles      | Life (Moxie)        | Doom (Brainitude)  | Flesh (Pulchritude)  |
-| 6  | Fortune     | Light (Scamperway)  | Void (Viscosity)   | Vision (Pulchritude) |
+| 6  | Fortune     | Light (Scamperway)  | Void (Viscosity)   | Eyes (Pulchritude)   |
 | 7  | Songs       | Rhyme (Grit)        | Flow (Scamperway)  | Beat (Viscosity)     |
 | 8  | Taxes       | Cups (Grit)         | Coins (Viscosity)  | Fate (Brainitude)    |
 | 9  | Combat      | Blades (Grit)       | Wands (Moxie)      | Cloaks (Pulchritude) |
 | 10 | Power       | Flood (Grit)        | Sand (Scamperway)  | Stone (Viscosity)    |
 | 11 | Imagination | Dream (Brainitude)  | Moon (Pulchritude) | Fae (Moxie)          |
 | 12 | Story       | Stage (Brainitude)  | Ploy (Moxie)       | Flux (Pulchritude)   |
+| 13 | Chessboard  | Pale                | Dim                | Pied                 |
+| 14 | Billiards   | Shades              | Stripes            | Cues                 |
 
 ## Aspect Descriptions
 ### Reality Triad
@@ -198,7 +205,7 @@ Light is the aspect of good news. If you want a conflip to come up heads, hand t
 
 Void is the aspect of . It deletes information, which makes it really hard to . Void deals with mystery, the unknown, and . Void players have a uniquely powerful (and terrifying) glitch which replaces one of their stats with . Void players don't mind at all when information is missing, which pisses me right off, because a Void player edited this paragraph and now it's full of .
 
-Vision is the aspect of illusions and trickery. Light players will flip the coin, call heads, and get it; Void players will make the coin's faces disappear and tell you it came up heads; Vision makes the coin look like it has heads on both sides. Vision deals with synesthesia, creating sensations where there are none. Vision players never trust their first impression of something--they're intimately familiar with how easy it is to be fake.
+Eyes is the aspect of illusions and trickery. Light players will flip the coin, call heads, and get it; Void players will make the coin's faces disappear and tell you it came up heads; Eyes makes the coin look like it has heads on both sides. Eyes deals with synesthesia, creating sensations where there are none. Eyes players never trust their first impression of something--they're intimately familiar with how easy it is to be fake.
 
 ### Songs Triad
 
@@ -254,3 +261,21 @@ Stage is the aspect of constants, universal and otherwise. Your favorite book is
 Ploy is the aspect of variables, smoke and mirrors, opposition and conflicts. Your favorite book is anything where there's an emotional, deeply dramatic showdown between two tragic figures. A great story is all about a compelling conflict, and you know exactly what the most exciting showdown would be! Ploy deals with playing forces against each other, keeping the audience guessing as to who will win. Your legend will be great because you'll beat the odds, probably with a fantastic speech as you rally for one last desperate strike against the final boss. Ploy players are schemers--they're always looking for a chance to set up some drama.
 
 Flux is the aspect of unpredictability, because unpredictability is what makes a *really* interesting story. Your favorite book is the first book that ever really surprised you. A great story has to put a new twist on something, even if it's telling a tale that's as old as time, and you know just how to make this story new again! Flux deals with the unwritten rules of storytelling--particularly, the rule that there are no rules. Your legend will be great because you'll think outside of the box, and you know the box well enough to *truly* think outside of it. Flux players are wildcards--they do whatever makes the story more *interesting*. If you know anything about stories, you'll be scared of that word.
+### Unaspectancy
+Unaspectancies are *weird*. They don't function like normal Aspects. Instead of being tied to some metaphysical concept or philosophical approach, they're tied into deep, *deep* parts of the game, affecting game constructs in ways that no ordinary Aspect can--hence, "Unaspectancy". Some veteran players theorize that Unaspectancies are actually developer tools that were left in the final build by mistake, like a dev console that you're not supposed to have access to. Needless to say, something needs to break really hard for you to have an Unaspectancy. These "aspects" are incredibly powerful, but also incredibly unstable--using them too much can cause some *very* bad things to happen. They also do not work quite right with Classes--if you have an Unaspectancy, it won't fill out the [aspect] part of your Class's role, which can cause weird things to happen with the plot.
+
+#### Chessboard Triad
+
+Pale is the Aspect of the future, change, and revolution. Which is a fancy way of saying that it gives you the ability to change what things *will do*. It basically gives you a script editor, letting you alter the behavior of any object you can see. Unfortunately, there's limits--you can only attach behavior that already belonged to the object. You can't make a fridge start strifing for you, because it's a fridge; it can change temperatures and hold stuff. The good news is, you're free to make it do that stuff *any way you like*--you can make a fridge into a frosty deathtrap by making it open when imps are in front of it and freeze stuff to absolute zero when it's open, or turn it into an improvised oven by making it *heat* instead of *chill*. Even better, you can alchemize new stuff that has access to new behaviors--alchemize a robot with your fridge to make a Fridgebot, and now it *can* strife, because robots can strife. Just bear in mind that you're not necessarily a perfect programmer, even if you ARE better than SBURB's programmers. You are not immune to writing bugs into things…
+
+Dim is the Aspect of the past and tradition. Which is a fancy way of saying that it lets you re-initialize things, resetting them to the way they were before. It basically gives you a reset button for all the different properties of an object, letting you send them back to where they were or set their stats back to the way they started. Be careful, because this *doesn't* give you an undo button--if you panic and reset a player, they might lose all their Echeladder rungs or everything in their Strife deck. And if you reset their *position*, they might get sent all the way back to the asteroid they rode in on--and you have *no idea* where that thing is...
+
+Pied is the Aspect of the Battlefield, and other parts of the world. Which is a fancy way of saying that it can change the landscape, without having to spend grist or be near your house. It basically gives you the level editor, letting you alter any part of the game world as if you were your own server player, like a creative mode for SBURB. However, editing the game world *too* much can cause "desynchronization"--especially if you're editing things that aren't your house. See, SBURB is a networked game. SBURB expects the Lands to only change when quests are completed and stuff, so if you bore a hole to your Land's core and someone else visits, it'll look and act like solid ground to them. Weird Shit will happen as their reality goes out of sync with yours. Don't ask how *reality* can have client/server synchronization issues, you don't wanna know.
+
+#### Billiard Triad
+
+Shades is the Unaspectancy of creation. It has the ability to *create* things, including things that you'd otherwise be unable to create--duplicating your Kernelsprite, for instance, or making Grist out of thin air. You basically have access to a `/spawn` command. The thing is, this doesn't work quite right--things you `/spawn` don't get hooked into the normal processes for entities going about their business. This includes entity ID checks, which means that if you `/spawn` enough things, they start overwriting existing entities. The effects of this can range from "random items in your sylladex are now captchalogued grist(!?)" to "the imps you're fighting have their models replaced with invisible pumpkins".
+
+Stripes is the Unaspectancy of destruction. It has the ability to *destroy* things, including things that are otherwise indestructible--erasing your Denizen, for instance (DO NOT DO THIS), or removing certain secret bosses from existence. You basically have access to a `/kill` command. The thing is, this doesn't work right either--things you `/kill` do not go through their normal death processing steps. This includes generating loot drops (meaning no grist), leaving a body behind, setting up the hooks for allowing resurrection, transferring a player to their dreamself, and so on--so you *REALLY* don't want to accidentally delete a player with this. In the long run, it gets even worse: entities that are `/kill`ed don't clean up their entity IDs, which means that the game thinks they're still alive...and still counting toward the spawn cap. In other words, if you `/kill` enough things on your Land, *things will stop spawning there*, meaning no Underlings to fight, no Consorts to talk to, and potentially no Denizen if you haven't met it yet.
+
+Cues is the Unaspectancy of change. It has the ability to *change* things, including things that are otherwise impossible to change--directly editing your stats, for instance, or altering the properties of objects beyond what a Heart player can do. You basically have access to the "properties" window of everything you can see. The thing is, this doesn't operate on individual objects--you're not editing the properties of *this* rabbit plushie, you're editing the properties of every rabbit plushie in existence. This works fine if you're editing something unique, like another player, but if you're editing something that *isn't* unique you'll see a lot of knock-on effects. Even worse, this propagates through prototyping, in both directions--if you edit a wizard statue, and someone prototyped with a wizard statue, then all Underlings will take on new stats based on whatever you changed in that wizard statue. If you then edit an Underling to make it easier to fight, that edit reverse-propagates to *everything that Underling is prototyped with*. By the way, most Lands generate with a bunch of stuff that's related to what their players prototyped with, especially in Weird Puzzle Shit, so your edits will have wide-ranging repercussions on puzzles.
