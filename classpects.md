@@ -186,8 +186,8 @@ Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d
 | 10 | Power       | Flood (Grit)        | Sand (Scamperway)  | Stone (Viscosity)    |
 | 11 | Imagination | Dream (Brainitude)  | Moon (Pulchritude) | Fae (Moxie)          |
 | 12 | Story       | Stage (Brainitude)  | Ploy (Moxie)       | Flux (Pulchritude)   |
-| 13 | Chessboard  | Pale                | Dim                | Pied                 |
-| 14 | Billiards   | Shades              | Stripes            | Cues                 |
+| 13 | Chessboard  | Pale (Mastery)      | Dim (Mastery)      | Pied (Mastery)       |
+| 14 | Billiards   | Shades (Mastery)    | Stripes (Mastery)  | Cues (Mastery)       |
 
 ## Aspect Descriptions
 ### Reality Triad
