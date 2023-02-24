@@ -103,12 +103,49 @@ For example, the Scales of Void will seek to strike the perfect balance of minim
 
 ## Moxie Classes
 ### Witch/Mage - One who mystifies with [aspect]
-The Witch and the Mage are classes that focus on doing really crazy Weird Aspect Shit. They're spellcasters, basically.
+The Witch and the Mage are classes that focus on doing really crazy Weird Aspect Shit. They're spellcasters, basically, playing with or against the "rules" that mere mortals must play by.
 
-The Witch 
+The Witch is good at breaking the rules of their aspect. They're always looking for new and exciting ways to abuse their aspect, and as the active member of the pair, this translates into all kinds of wacky combat applications. They basically get to choose which (heh) parts of their aspect apply to them, and their role in the story will often involve choosing to nullify parts of their aspect at a key moment. They're goofy and weird, and self-consciousness is their kryptonite.
+
+For example, the Witch of Bone can decide which parts of their legacy they're stuck with at any given moment, enhancing different elements of their lineage and destiny to become better at what they need to do right now.
+
+The Mage is good at understanding the rules of their aspect. They're always finding caveats and edge cases, and as the passive member of the pair, this means they're really good at giving advice and keeping you out of trouble. They get to rules-lawyer their aspect, ensuring that enemies get hit with the full force of the aspect's consequences while shielding you from the worst harm, and their role in the story usually involves finding the loophole that makes their aspect come into play. They're sober and wise, and can't take a joke to save their life.
+
+For example, the Mage of Ploy has a deep and powerful understanding of which conflicts will end in what ways. He has the most accurate power level ranking video essays. Don't get into a canon-explaining contest with that guy, he's simply the best there is.
+
 ### Smith/Sign - One who makes [aspect] anew
+The Smith and the Sign are classes that have to do with adding new elements to the story, expanding the game. They're modders fixing a badly-designed open-world RPG. Say what you want about SBURB's creators, they understand the value of having a good modding community.
+
+The Smith directly creates things from their aspect--and as the active class of the pair, it's usually so they can *personally* take advantage of it. Smiths hammer out entire new mechanics *just* so they can exploit those mechanics for great effect. They're also creating new parts of the *story*; a Smith will create their Aspect with great skill, in great quantities, or of incredible quality. A session with a Smith in it is going to have *something* non-standard happen as part of the plot.
+
+For instance, a Smith of Doom probably spends their free time making doomsday devices--but more importantly, they'll engineer the plan that dooms a particularly strong foe, making the rest of the story possible by crafting the perfect death.
+
+The Sign *reveals* their aspect in other things, most often in other players or in prophecies--and as the passive class of the pair, these revelations are usually for everyone's benefit. A Sign doesn't really *intend* to make big dramatic reveals; it just *happens*, usually right when it needs to. They tend to reveal really important details of the story, uncovering sinister plots or secrets relating to their aspect. A session with a Sign in it will involve a lot of deep and terrible secrets coming to light, and a lot of soul-searching and wrestling with the implications of those secrets.
+
+For example, a Sign of Time will stumble directly into a ticking time-bomb--revealing that the whole session is literally running out of Time. They might also empower others by helping them to see how they can use their Time more wisely, or by finding more Time where nobody expected it to be.
+
 ### Knave/Damned - One who is cursed with [aspect]
+The Knave and the Damned want to *escape* their aspect, and see their aspect as a curse of some form.
+
+The Knave feels like their aspect is undeserved--they're competent, sure, and they benefit the team with their ability to wield that aspect in combat and otherwise, but they don't really *feel* like they should be using this aspect. As an Active class, the Knave's 'curse' always takes the form of some personal benefit, and they always feel like someone else would use it better. The Knave suffers from impostor syndrome, which is kinda funny, because *everyone* got their aspect powers for no real reason, but only the Knave seems to notice. They might sound similar to the Fiend, but where the Fiend gets their aspect as a gift, the Knave has it as some kind of weird inherent talent--which just plays into the impostor syndrome, because they didn't really *earn* it through training or practicing.
+
+For example, a Knave of Light has been a lucky bastard since the day they were born, and they *hate* it. They just wanna be left alone, but with all this good luck, everyone always wants to be around them! If only you could trade classpects with someone.
+
+The Damned feels like their aspect is the only part of them that anybody sees--they'd bring so much more to the team, if only everyone could see past this one part of them. As a Passive class, the Damned's curse is all about how the Damned affects others, and they always feel like everyone else is judging them at face value. The Damned suffers from being flanderized by their own friends, and struggle with finding real connections with others. Players who are stuck with the Damned class are particularly vulnerable to mental and emotional problems because of this, so be careful.
+
+For example, a Damned of Joy really, *really* wishes people would take them seriously. Everyone thinks of them as the class clown, the wacky jokester who's always looking to tilt their Prankster's Gambit in a favorable direction. But doctor, they *are* Pagliacci…
+
 ### Priest/Seal - One who fights corruption through [aspect]
+The Priest and the Seal focus on defeating "corruption" via their aspect, which in practice means they keep everyone in a healthy state of mind by applying what their aspect means.
+
+The Priest treats their aspect like a sort of holy scripture, treating it as the best philosophy ever and extolling its virtues to anybody who'll listen. As an Active class, this usually manifests in confrontational ways--the Priest is the one you call in when you need an intervention. The frustrating-slash-handy thing is that the Priest understands their aspect in a really well-rounded way, and even Priests who are otherwise dumb as bricks can usually find some way to give good advice within the context of their aspect.
+
+For example, a Priest of Blood will invoke family ties, loyalty, and the shared goals of the team to help someone realize that cooperation is important. Really handy when someone's going megalovaniac on you.
+
+The Seal uses their aspect as a barrier, or like guide rails on a bowling alley--pushing others back to safety with their aspect. As a Passive class, this happens a lot more gently than you might think, and is basically a buff to everyone's mental wellbeing; the Seal is a fantastic therapist. Don't think too hard about the implications of mental health being something you can buff. The nice thing about this is that the Seal doesn't need to have dramatic interventions to make a difference--they provide the ounce of prevention that outweighs the pound of cure.
+
+For example, a Seal of Hope can prevent someone from entering a critical depression spiral by showing them how to reject the despair they've become submerged in, protecting them with the power of Hope.
+
 ## Scamperway Classes
 ### Scout/Guide - One who explores the possibilities of [aspect]
 ### Judge/Wheel - One whose [aspect] is justice
