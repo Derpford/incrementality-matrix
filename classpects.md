@@ -148,9 +148,48 @@ For example, a Seal of Hope can prevent someone from entering a critical depress
 
 ## Scamperway Classes
 ### Scout/Guide - One who explores the possibilities of [aspect]
+The Scout and the Guide are all about finding neat stuff. Note that unlike the Sign, the stuff they find has always been there.
+
+The Scout's deal is all about treasure hunting. They find their aspect in the wildest, most untamed places, and reap the benefits of seeing it within. These guys are like Steve Irwin or Indiana Jones; they take great joy in finding the most unusual things, and they see the beauty in every strange, remote place they've been to. Expect a Scout to run way ahead of everyone else, bypassing all the Weird Puzzle Shit somehow, and fail to bring back anything useful because they found a cool rock. But hey, they know where all the good shit is now.
+
+For example, the Scout of Law will have a whole bunch of books on really dumb laws and rules, and will also spend all their time limit-testing and figuring out what the rules of the game are.
+
+The Guide's deal is all about, well, guiding others. They know the lay of the land when it comes to their aspect, and they know exactly how to navigate by it. These guys are...kind of also like Steve Irwin, but mainly when he's on TV; they love sharing their knowledge, showing others what is safe and what isn't. Expect a Guide to patiently wait for you to catch up, because you won't be able to cross this part of their Land without them nudging you away from the pitfalls. Don't worry, they don't judge.
+
+For example, the Guide of Flux is a fantastic storyteller, and also a fantastic director--patiently explaining to each actor what their role will be. Including yours. Remember, SBURB makes you more powerful if you're better at playing your role.
+
 ### Judge/Wheel - One whose [aspect] is justice
+The Judge and the Wheel are two sides of the same coin--the coin of JUSTICE. And punishment. Hopefully mostly JUSTICE.
+
+The Judge is, funnily enough, also jury and executioner. The Judge is like a paladin, wielding their aspect to SMITE the wicked. Whenever someone is doing evil, *especially* if it has to do with their aspect, the Judge will know and they'll bring the fist of god down upon that poor sucker's head. A Judge will eventually gain a more nuanced understanding of what justice is and what it means to bring judgement upon someone, but for the most part their primary concern is who to SMITE.
+
+For example, the Judge of Rhyme knows when you fucked up your meter. You are never safe from the Judge of Rhyme and his immaculate sense of lyricism.
+
+The Wheel is sworn to carry your burdens. The Wheel's got a cross to bear, and it's their aspect. Whenever someone is suffering, *especially* if it has to do with their aspect, the Wheel will end up carrying that suffering instead, whether they like it or not. It's like the universe conspires to make the Wheel the target of all bad omens. Over time, the Wheel grows stronger as they bear more bullshit, but that doesn't mean they're gonna be happy with being the designated doormat.
+
+For example, the Wheel of Time is going to be better at scheduling than anybody else. To the point that basically the only reason you all can coordinate is because the Wheel of Time can handle your Time better than you can. Please thank your Wheel whenever you have a chance.
+
 ### Jack/Bride - One whose fate is [aspect]
+The Jack and the Bride both have a date with destiny...and their aspect.
+
+The Jack is perpetually running from that date with destiny. Their aspect feels like a chain around their neck, possibly because it is; it's their duty and destiny to be with their aspect, whether they like it or not. Don't ask the Jack about the wedding, 'cuz they have cold feet. The Jack's always looking for a chance to get away from their aspect, but--due to Wacky Hijinks--can still count on their aspect always being somewhere nearby.
+
+For example, the Jack of Blades is always getting drawn into physical confrontations against their will; no matter how hard they try to be diplomatic, the solution always turns out to be stabby times.
+
+The Bride is maybe a little too eager about that date with destiny. Their aspect feels like the most beautiful, most wonderful thing ever; it's their fate and destiny to be with their aspect, and they are very, very happy with this. Don't ask the Bride about the wedding, 'cuz they won't shut up. The Bride is always looking for a chance to commune with their aspect and share how wonderful it is, and--due to Wacky Hijinks--it's actually beneficial, despite being generally really weird.
+
+For example, the Bride of Doom is...really morbid. Like, *concerningly* morbid. You know that one friend in high school who was obsessed with Nightmare Before Christmas? The Bride of Doom is even *more* into skeletons and stuff.
+
 ### Hand/Eye - One who coordinates [aspect]
+Hand and Eye are the classes who can keep track of like a billion things.
+
+The Hand has many, many irons in the fire, and is personally responsible for--and benefiting from--all of them. The Hand uses their aspect as an ace up their sleeve, a signature power, and a network of secret agents, all in one. Expect the Hand to have someting in place for everything, possibly including killing their fellow players if necessary. The Hand is a mob boss, always working an angle and always two steps ahead of the fuzz. (For some reason, the Hand of Void gains some incredibly bonkers powers, but Hand of Void players never seem to fully understand how good they have it--maybe because they become good at "coordinating nothing", i.e., are completely uncoordinated?)
+
+For instance, the Hand of Cloaks has been quietly setting up a series of physics glitches that will launch a bathtub at mach 5 directly into this boss's face the moment the encounter starts.
+
+The Eye has been watching over you since well before you were aware of it. The Eye uses their aspect as a way of keeping tabs on things, a spreadsheet and security network, all in one. Expect the Eye to already know about potential issues, and have a rough idea of where and how those issues might come up. The Eye is an accountant, always checking the numbers and always catching the details that other people miss.
+
+For instance, the Eye of Coins is a more literal accountant, making sure everyone's gotten their fair share of good loot and buffing allies who are struggling to keep up with the grind.
 ## Brainitude Classes
 ### Gnome/Sylph - One who heals with [aspect]
 ### Sage/Seer - One who understands [aspect]
