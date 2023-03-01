@@ -190,11 +190,52 @@ For instance, the Hand of Cloaks has been quietly setting up a series of physics
 The Eye has been watching over you since well before you were aware of it. The Eye uses their aspect as a way of keeping tabs on things, a spreadsheet and security network, all in one. Expect the Eye to already know about potential issues, and have a rough idea of where and how those issues might come up. The Eye is an accountant, always checking the numbers and always catching the details that other people miss.
 
 For instance, the Eye of Coins is a more literal accountant, making sure everyone's gotten their fair share of good loot and buffing allies who are struggling to keep up with the grind.
+
 ## Brainitude Classes
 ### Gnome/Sylph - One who heals with [aspect]
+The Gnome and the Sylph both use their aspect for extra survivability.
+
+The Gnome is a bruiser, who can wield their aspect as a way of bolstering their own health. Gnomes are tough customers, competing with some Dame aspects for sheer ability to facetank things. Gnomes are particularly good at self-help, making them highly reliable, but they can also be stodgy individualists who don't see anything to gain from teamwork. After all, they can survive anything!
+
+For example, a Gnome of Stone might literally give themselves stone skin, becoming nearly impervious to damage while slowly growing back anything that was missing.
+
+The Sylph is the most support-focused passive class in the game. Their entire deal is supporting others; a Sylph is entirely defined by what they can do for their friends. Sylphs are always capable of some form of healing, which makes them extremely valuable in sessions that don't have a Life player--but the thing is, the Sylph *only* sees what they can do for others, and will feel very anxious if they're not doing *something* to help.
+
+For example, a Sylph of Fae can duplicate the parts of you that might have gone missing due to a tragic case of being excessively stabbable, and will be sending dupliclones of themself to everyone to make *absolutely sure* that you're all doing okay.
+
 ### Sage/Seer - One who understands [aspect]
+The Sage and the Seer are defined by their ability to make plans and understand their aspect on a deep strategic level.
+
+The Sage is at least three steps ahead of everyone else. Whatever their aspect is, they are the single most powerful expert on that subject, and anything which might contest their brilliance is probably already part of their plan. The Sage has a million secrets, each of which will be revealed only when the time is right. In other words, don't expect the Sage to tell you anything, because the Sage *specifically* becomes more powerful if they know something nobody else does.
+
+For instance, a Sage of Space has knowledge of such insane edge-cases and loopholes in the laws of physics that they can work a dozen miracles before breakfast. They won't tell you how they did it, though. Smug jerk.
+
+The Seer is constantly on the lookout for strategic advantages. Their aspect is their domain of expertise, but unlike the Sage, the Seer is actually willing to *share* their insights. The Seer has a million theories, each of which is always being tested. In other words, they're probably sharing everything that's happened so far on GameFAQs, because the Seer *specifically* becomes more powerful the more their knowledge can be spread.
+
+For instance, a Seer of Rage has been trying to figure out what's aggravating everyone, and is probably going to untangle some deep-seated trauma or personal vendetta that you didn't even know you had.
+
 ### Moon/Star - One whose [aspect] ebbs and flows
+The Moon and the Star are all about timing and patterns, because their stuff works on a schedule.
+
+The Moon grows stronger and weaker in a rhythm. Their aspect is in phases, changing in a cycle that can be predicted and taken advantage of. They can sort of control how fast that cycle moves, but they can't just turn it off, no more than you can turn off the tide. Being in sync with the Moon can be extremely valuable, but trying to force it will just frustrate everyone.
+
+For example, the Moon of Moon will cycle between being perfectly sane--giving great insights--and becoming absolutely out of their mind. This means that the Moon of Moon will periodically do something stupid. Dammit, Moon of Moon.
+
+The Star is in an elaborate celestial dance with everyone else. Their aspect is in orbit, with each of the other players passing in and out of its corona. They can predict when certain things will be in alignment, and when the stars *really* align, the Star will bring out the best in everyone--but the Star can't control what is in perihelion and aphelion, no more than you can move the sun.
+
+For example, the Star of Stage will help the other players with their exits and their entrances, ensuring that everyone has their turn in the spotlight, and eventually bringing everyone together to take a bow.
+
 ### Soul/Monk - One whose [aspect] inspires humility
+The Soul and the Monk bring other people down a peg with powerful displays of their aspect.
+
+The Soul is the ultimate expression of their aspect, capable of feats of skill and talent that make superpowers look mundane. Unlike most classes, the Soul's powers are almost exclusively manifestations of personal skill, though that doesn't mean they're any less godly or miraculous. There is no such thing as 'going easy on you' for the Soul; they're always on, 24/7, and don't understand why anybody else would want to bring anything less than the A-game.
+
+For example, the Soul of Flow spits bars so fire that it can melt faces. Their lyrical miracles are going to turn your brain inside out. The "top 10 rappers Eminem is afraid to diss" list is just ten copies of the Soul of Flow's face.
+
+The Monk holds the power to reveal things of such beauty and simplicity that it can leave you speechless. The Monk, much like the Soul, is mostly manifesting godly skill rather than working miracles, but they still inspire (and buff) everyone around them in a miraculous way. There's no such thing as work for the Monk; they do this kind of awe-inspiring, earth-shattering work on a daily basis, and they see no reason to treat it as anything special.
+
+For example, the Monk of Dream can create such incredible works of sculpture that even the Soul of Flow can't come up with anything to say about it.
+
 ## Pulchritude Classes
 ### Thief/Rogue - One who steals [aspect]
 ### Clown/Maid - One who entertains [aspect]
