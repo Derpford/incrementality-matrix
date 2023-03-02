@@ -35,12 +35,14 @@ Nobody said you had to wait for another player to finish their action before sta
 
 ## Bringing It All Together
 Here's an example of how an action might be resolved:
-> John and his friends have just started playing SBURB, and John is struggling to deal with a group of Imps in his house.
-> John's Classpect, *Heir* of *Breath*, gives him a Classpect Score equal to his Grit plus his Scamperway. John has 2 Grit and 1 Scamperway, so his Classpect Score is equal to 3.
-> John's Strife Score is equal to 5 (2 Grit plus 3 Classpect Score). Regrettably, this Imp has a Strife Score of 10, making it too dangerous for John to fight effectively.
-> John decides to roll a d12 to boost his attack, but--rotten luck!--he rolls a 2. 5 + 2 = 7, which isn't enough to bring him to the right Scale to take on this Imp.
-> However, John's friend Rose has just enabled the house editing interface, and offers to Interrupt via editing John's house. Her Puzzle Score is 6 (3 Brainitude plus a Classpect Score of 3); she rolls a d12 to boost this, and gets another 6 for a total of 12. The GM informs her that she's found incredible success--by accident. She yanks a massive cast-iron bathtub off of its plumbing, which ends up perched precariously above the battlefield, creating a X2 Combo.
-> John then consumes that X2 Combo--his panicked flailing is the straw that breaks the bathtub's back, sending it tipping over the edge of the roof and making it land on the Imp. Multiplying his 7 from earlier by 2 from the combo, he gets a 14, which means he can win at a cost; John, Rose, and the GM all agree that the destruction of that beautiful cast-iron bathtub is a terrible cost indeed, but a worthy sacrifice in the name of victory.
+
+John and his friends have just started playing SBURB, and John is struggling to deal with a group of Imps in his house.
+
+John's Classpect, *Heir* of *Breath*, gives him a Classpect Score equal to his Grit plus his Scamperway. John has 2 Grit and 1 Scamperway, so his Classpect Score is equal to 3. John's Strife Score is equal to 5 (2 Grit plus 3 Classpect Score).
+
+Regrettably, this Imp has a Strife Score of 10, making it too dangerous for John to fight effectively. John decides to roll a d12 to boost his attack, but--rotten luck!--he rolls a 2. 5 + 2 = 7, which isn't enough to bring him to the right Scale to take on this Imp.
+
+However, John's friend Rose has just enabled the house editing interface, and offers to Interrupt via editing John's house. Her Puzzle Score is 6 (3 Brainitude plus a Classpect Score of 3); she rolls a d12 to boost this, and gets another 6 for a total of 12. The GM informs her that she's found incredible success--by accident. She yanks a massive cast-iron bathtub off of its plumbing, which ends up perched precariously above the battlefield, creating a X2 Combo. John then consumes that X2 Combo--his panicked flailing is the straw that breaks the bathtub's back, sending it tipping over the edge of the roof and making it land on the Imp. Multiplying his 7 from earlier by 2 from the combo, he gets a 14, which means he can win at a cost; John, Rose, and the GM all agree that the destruction of that beautiful cast-iron bathtub is a terrible cost indeed, but a worthy sacrifice in the name of victory.
 
 # The Basic Stats
 
