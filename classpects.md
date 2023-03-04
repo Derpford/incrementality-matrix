@@ -238,14 +238,97 @@ For example, the Monk of Dream can create such incredible works of sculpture tha
 
 ## Pulchritude Classes
 ### Thief/Rogue - One who steals [aspect]
+The Thief and the Rogue are defined by their ability to yoink their aspect from other things.
+
+The Thief is probably the single most selfish active class in the list. Their deal is that they want all of their aspect. ALL of it. They know they can do better things with it than you can, anyway. The Thief has 100% confidence in their own skills and 0% confidence in the rest of you, but don't worry, they've got a plan to steal your thunder, the glory, the spotlight, *and* your heart. The Thief is the kind of person who will unironically say "You're looking at the face of someone who did nothing wrong" after admitting to punting a baby off a cliff. They're great at dealing with powerful enemies, though, because they can just *steal* whatever makes that thing powerful.
+
+For example, the Thief of Self will 'steal' confidence, undermining the foes they fight by making them think twice about everything--meanwhile, the Thief of Self becomes so confident in their actions that they can con *reality* into playing along.
+
+The Rogue is more of a Robin Hood kinda person. Their deal is that they wanna take the powerful down a peg. Or, rather, down the whole ladder. They know that the rich got big by stealing from everyone else, anyway. The Rogue is dashing and brave, a genuinely admirable person, which just makes it all the more infuriating that everything they do turns out to be super illegal. The Rogue is the kind of person who will happily remind you that what is *moral* tends to be the opposite of what is *legal*. They're always sharing their loot with everyone, though, so that's cool.
+
+For example, the Rogue of Beat will 'steal' loneliness, finding allies who are struggling and sharing their burden--as well as 'stealing' individuality from powerful enemies and bringing them back down to a more random-encounter-like power level.
+
 ### Clown/Maid - One who entertains [aspect]
+The Clown and the Maid are both defined by their ability to play host to their aspect, treating it like a sort of weird house-guest.
+
+The Clown is like a court jester; they're the only one who's allowed to make a fool of their aspect. Clowns are really, really powerful for some reason--some kind of internal game logic is just *broken* for Clowns, giving them some weird gimmicks. Unfortunately, it's also really hard to get the Clown class. Some people assume it's been dummied out, but--as anybody who's ever met a Clown will tell you--they have a way of running circles around SBURB's game logic. Clown players also tend to slowly go insane over the course of the game, which doesn't bode well.
+
+For example, the Clown of Fate can make a mockery of the idea that good things come to those who wait, turning the grind on its head and screwing the game's economy harder than a grappler with full meter who's right on top of you.
+
+The Maid is like the host of a party; they're the one making sure everyone's having a good time with their aspect. The Maid isn't quite as powerful as the Clown, but they're still able to do some wacky stuff with their aspect. Think of the Maid as the one who tops off your drink--except instead of beer, they're pouring their aspect into your cup. Maid players are very accomodating, and will insist on trying to keep everyone appeased, even the uninvited guests.
+
+For example, the Maid of Eyes is always crafting illusions and doing party tricks, giving everyone moral support by making them all feel a little more awesome. They'll be quick to help someone see through those illusions when a reality check is needed, though, because the whole point is to make you feel better.
+
 ### Fool/Death - One whose legend is [aspect]
+The Fool and the Death are fated to have an especially grand legend, one which revolves around their aspect.
+
+The Fool's journey starts with their aspect, and they'll be taking that aspect with them all the way to the end of it. The Fool is kind of like the kid from Puss in Boots, with their aspect playing the role of the cat with the yeezys; they don't fully understand what they're doing right, but that doesn't stop them from doing it, and it also doesn't stop their aspect from supporting them. The Fool also tends to be *full* of their aspect, because if you squint, "Fool" and "Full" sound the same; SBURB wordplay is just like that. The Fool is going to struggle with impostor syndrome on occasion, because they really, truly do not understand how their aspect works--and if they ever *do* understand, their powers stop working. It's a real pain in the ass.
+
+For example, the Fool of Hope will constantly pull out the "no u" in situations where you wouldn't expect it to work; they'll be able to simply reject anything that tries to harm them. And it will stop working the *moment* the Fool of Hope tries to do it on command.
+
+The Death's journey will end with their aspect, and they'll be damn near unstoppable until that happens. The Death is kind of like Macbeth or Baldr; their legend has a specific ending involving a specific set of circumstances, and until those circumstances happen, the Death will be unstoppable. The Death tends to be really cavalier about this, especially because they have mastery over their own aspect--if their death has to involve their aspect, and they're the one in control of that aspect, that's functional immortality, right? The Death never seems to consider the possibility that their aspect might backstab them at some point.
+
+For example, the Death of Mind is a brilliant strategist who is fated to one day die of indecision. They won't believe this can happen until, about 5 minutes before they die, they get locked up into a bad case of analysis paralysis, leaving them unable to make a decision in time.
+
 ### Ace/Spy - One who impresses [aspect] upon others
+The Ace and the Spy are both defined by using their aspect to make an impression.
+
+The Ace is a hotshot, a swashbuckling action hero, a fighter pilot and a stunt driver all rolled into one. Their aspect is the canvas and they make painting look easy. You might compare them to the Fool, but where the Fool seems to stumble into their victories, the Ace knows exactly what they're doing. The Ace is also a massive show-off, to the point that they basically build their whole personality around being the one who's good at their aspect. Expect the Ace to have a fragile ego, one which manifests by taking literally everything as a challenge.
+
+For example, the Ace of Wands is capable of turning the tides of any battle, and seems to take genuine pride and joy in coming up with the most improbable ways to win against impossible odds--in fact, they'd have to be some kind of Tactical Genius to pull off this kind of hide-a-tank-behind-a-lamp-post shenanigans…
+
+The Spy is always in the background, influencing everything around them in ways that almost nobody will notice. Their aspect is the tectonic plates of the planet, and they are the minute shifts that lead to an earthquake 500 miles away. The Spy is never in the spotlight, because their work is at its most powerful when nobody's paying attention to it. You'll probably wonder what the Spy is contributing to the session--all the way up until the moment the plan comes together.
+
+For example, the Spy of Rage has been quietly manipulating various NPCs, undermining the Dersite army from within, pitting officers against each other and gradually working them all into a fever pitch--culminating in a major Dersite nobleman showing up on Skaia's battlefield with a personal vendetta against literally every Dersite ever, including himself.
+
 ## Mastery Classes
+The Master Classes are special; normally, they never get brought up, and you're not able to access them. There's a specific, super-special circumstance where you have access to them, and that's two-player or one-player sessions--but these are totally unrecognizable, compared to a proper session. If there's two players, they each get one class from the same pair; if there's only one player, you get one class of your choice--but then the game's unwinnable, because you can't be both the Space *and* the Time player…
+
+Master Classes are also generally incredibly powerful, being capable of using their aspect in ways that make the god-tier powers of other classes look like mere mortals.
 ### Lord/Muse - One who is master of [aspect]
+The Lord and the Muse are absolute masters of their aspect, becoming able to wield it in ways that transcend the game session itself.
+
+The Lord is master in the sense of being a commander. Lords not only gain the ability to manipulate their aspect to a degree comparable to god-tier from the beginning of the game, they also gain the ability to recruit "Leprechauns", special game constructs who are completely loyal to them. Leprechauns also come with special abilities or equipment that ties into the Lord's aspect, giving them powers similar to regular-class players. The Lord is basically playing an RTS while the rest of us play an RPG. 
+
+For example, the Lord of Time not only gains access to timeline-defying powers that let them potentially jump out of the session entirely, they also gain a gaggle of time-themed Leprechauns who can each manipulate time in some special way.
+
+The Muse is master in the sense of being a master of their craft. Muses not only gain the ability to manipulate their aspect to a degree comparable to god-tier from the beginning of the game, they also gain the ability to grant divine inspiration to others through their aspect, enabling them to perform above and beyond their normal capacity to act. It's theorized that this is supposed to work on Leprechauns, since this ability would otherwise be useless if there's only one other player in the session, but Muses tend to break session bounds by accident. The Muse is basically playing a game of diplomacy while the rest of us play an RPG.
+
+For example, the Muse of Space can reach across multiple universes to gather support for their cause. This varies in usefulness depending on which universes they can find.
+
 ### Waste/Grace - One who creates and destroys [aspect]
+The Waste and the Grace directly create and destroy their aspect. Not in the sense that regular players do, but in the sense of being *the* creator of their aspect.
+
+The Waste is capable of completely erasing their aspect from anything and anyone, acting as a sort of omnipotent being for omnipotent beings. The Waste usually lets this go right to their head, making them an annoyance at best and actively harmful at worst. Despite the fact that their power is defined by *erasing* their aspect, it's actually quite versatile, and the Waste can create almost as easily as they can destroy--think of it like using negative space in a painting to define the shape of a thing more subtly than an actual outline can.
+
+For example, the Waste of Space is able to erase entire universes, rending them apart from the canon with a flick of the wrist. However, by defining what is not canon, the Waste of Space also defines what *is* canon.
+
+The Grace is capable of creating their aspect from whole cloth, giving them the same kind of omnipotence as the Waste with a little less imminent existential danger. The Grace tends to be very shy and humble about this, even though they are acting as a literal creator deity. The weird thing is that the Grace is *also* capable of completely wiping out their aspect, they just don't do it as often as the Waste does. You'd think that having creation as your domain makes destruction really hard. Maybe it's like "creating" a blank slate?
+
+For example, the Grace of Time makes time itself. Not like how another class might 'make time' or 'buy time' with the Time aspect. The Grace of Time is responsible for *the existence of the concept of time*. And at any moment, the Grace of Time might decide that time is kind of annoying, and quietly remove time from this universe.
+
 ### Dawn/Dusk - One who begins and ends with [aspect]
+The Dawn and the Dusk are immortal beings whose existence is defined by their aspect.
+
+The Dawn is the one who brought about the start of things. If you've ever heard the phrase "Before anything else was, I Am", it applies here. While the Dawn technically isn't *solely responsible* for creating their aspect like the Muse is, the difference is moot; as far as SBURB is concerned, the Dawn *is* their aspect, so they have administrative privileges over it.
+
+For example, the Dawn of Breath has been here since the concept of destruction was introduced. They are directly tied to the idea of impulsivity, doing things because they sound cool, and having no regrets.
+
+The Dusk is the one who waits at the end of things. If you've ever heard the phrase "I am the Alpha and the Omega, the Beginning and the End", the Dusk is the Omega and the End. When the entire universe has fallen apart, and the last bits of the Dusk's aspect are fading away, the Dusk will be there to capture them and hold them close; and until then, the Dusk will wait at the edges of their aspect, watching those who wander too close.
+
+For example, the Dusk of Void sits on the knife-edge between something and nothing, watching with a hunger that is sharper than claws; for they are the thing which is at the limit of nothing.
+
 ### Sun/World - One who sees [aspect] in all things
+The Sun and the World are in tune with the rest of the universe, becoming deities by enlightenment rather than by power.
+
+The Sun has achieved the enlightenment of their aspect, and now everything their aspect touches has become part of them. The Sun can find their aspect in places that nobody else would think to look, because the Sun understands that all aspects suffuse all things, and that even where there is the absence of an aspect, it is still that aspect. (This is a very abstract and spiritual way of saying that setting an aspect to zero doesn't remove the variable that the aspect is stored in.) The Sun is an active class that behaves like a passive class, because while the Sun's whole thing is having *personal* control over everything, they're wielding that control over *everything*, so they can affect allies just as easily as they can empower themself.
+
+For example, the Sun of Moon can see a little bit of insanity in everything; they're like that guy who calls the inside of his house "outside of the asylum". The Sun of Moon can see the insanity in you, and with but a touch, they can draw it out of you.
+
+The World has a perfect and total understanding of their aspect, and now everything their aspect touches is within their perception. The World knows everything about their aspect, granting them impossible mastery over it. The World is the embodiment of mind over matter; despite being a passive class, it acts like an active class, because while the World's thing is knowing things about everyone and everything else, they're wielding that knowledge to *empower their own actions*, giving them the kind of insane self-buffing and combat abilities that you'd expect from an active class.
+
+For example, the World of Time knows the secret of true time-stop, making them capable of things that no other Time player can pull off. In fact, the World of Time can maintain a timestop effect for longer than any other being in the session. Oh, and they have a perfect knowledge of all time-related things, like the time it'll take to get something done, or the time you have left to live.
+
 # Aspect Triads
 Each Aspect is placed within a themed Triad, and has some connection to the other two Aspects within that Triad.
 Below is a table of Aspect Triads; you may randomly pick an Aspect by rolling 1d12 to pick a Triad, then rolling 1d3 to pick an Aspect from that Triad. Note that all valid sessions (i.e., not null) must have a Space and Time player. It is acceptable to reuse Aspects, but most sessions won't need to, since you only need to reuse Aspects if you have more than 36 players.
