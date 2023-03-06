@@ -142,7 +142,7 @@ The GM can also award RP for any reason, and is encouraged to reward really cool
 
 If you have at least 1 RP, you can Appeal To The Audience to multiply your stat by 10 during a stat check. However, each time you do it you'll lose half your RP (rounded up)--the audience will get bored if the dude writing this comic keeps Deus Ex Machina-ing you off the hook.
 
-Your Roleplay Coefficiency starts at 0, because you haven't done anything interesting yet.
+Your Roleplay Proficiency starts at 0, because you haven't done anything interesting yet.
 
 # Increasing your Stats
 At character creation, you get three points to distribute across your six base stats. Regular, boring, ordinary people aren't exactly mighty champions, after all.
