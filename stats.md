@@ -111,6 +111,39 @@ Whatever the case may be, the Gambit Score is a unique thing that your character
 
 Your Gambit Score is calculated by your Classpect Score plus both Basic Stats you picked for it.
 
+# Predefined Stats
+There's also *Static Attribulations*, or stats that are always the same for new characters. These can change over the course of a game, but they always start out a certain way.
+
+## Alcheminsignia Rank
+Your Alcheminsignia Rank determines the limits of your ability to Alchemize weapons. You can still *receive* weapons more powerful than your Alcheminsignia Rank would allow, but you cannot *Alchemize new ones* until you've improved your Alcheminsignia Rank. For more details, check out the chapter on Grist and Alchemy.
+
+You can increase your Alcheminsignia Rank by:
+- Visiting a new Land
+- Completing Quests for your Consorts
+- Capping out your Echeladder
+
+Your Alcheminsignia Rank starts at 1.
+
+## Echeladder Rung
+Your Echeladder is a measure of how far you've come, an indicator of your prowess and growth as you journey through SBURB. This mostly translates to getting new stuff for fighting things, weirdly enough. For each Echeladder Rung you ascend to, you gain stat points (see below).
+
+You can increase your Echeladder Rung by achieving various almighty tasks, most of which involve fighting things. Echeladder Rungs will be awarded by the GM for various accomplishments, particularly fighting new things and fighting more powerful things.
+
+Your Echeladder Rung starts at 0, because you're an ordinary boring {insert species here}.
+
+## Roleplay Proficiency
+Your Roleplay Proficiency is a bonus that you build up by developing as a character. The GM should award RP for doing things that:
+- Show off your character's struggle with their flaws, especially if they line up with your character's Class or Aspect
+- Involve your character making a tough decision, especially if it involves something their Class or Aspect would do
+- Reveal that your character is becoming more like their Class or Aspect
+- Show your character learning to get along with their teammates
+
+The GM can also award RP for any reason, and is encouraged to reward really cool, exciting, or hilarious moments with RP.
+
+If you have at least 1 RP, you can Appeal To The Audience to multiply your stat by 10 during a stat check. However, each time you do it you'll lose half your RP (rounded up)--the audience will get bored if the dude writing this comic keeps Deus Ex Machina-ing you off the hook.
+
+Your Roleplay Coefficiency starts at 0, because you haven't done anything interesting yet.
+
 # Increasing your Stats
 At character creation, you get three points to distribute across your six base stats. Regular, boring, ordinary people aren't exactly mighty champions, after all.
 
