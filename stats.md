@@ -44,7 +44,16 @@ Regrettably, this Imp has a Strife Score of 10, making it too dangerous for John
 
 However, John's friend Rose has just enabled the house editing interface, and offers to Interrupt via editing John's house. Her Puzzle Score is 6 (3 Brainitude plus a Classpect Score of 3); she rolls a d12 to boost this, and gets another 6 for a total of 12. The GM informs her that she's found incredible success--by accident. She yanks a massive cast-iron bathtub off of its plumbing, which ends up perched precariously above the battlefield, creating a X2 Combo. John then consumes that X2 Combo--his panicked flailing is the straw that breaks the bathtub's back, sending it tipping over the edge of the roof and making it land on the Imp. Multiplying his 7 from earlier by 2 from the combo, he gets a 14, which means he can win at a cost; John, Rose, and the GM all agree that the destruction of that beautiful cast-iron bathtub is a terrible cost indeed, but a worthy sacrifice in the name of victory.
 
-# The Basic Stats
+# Your Character's Stats
+
+Your stats will change in many ways over the course of the game, through various means:
+- Ascending your Echeladder will let you increase your base stats.
+- Crafting weapons and other equipment through Alchemy will further enhance your stats.
+- Adding new House Features to your House will help you grow even further as you ascend.
+
+Because of this, it's recommended that you write down your stats with 4 columns: the base value, the equipment value, the house value, and the total. This is purely for bookkeeping purposes; you can write it all down as one number if you want. Just be careful not to get all turned around and add things up incorrectly.
+
+## The Basic Stats
 
 Your character has a set of *Prime Attribulations*. Normal people call them *Basic Stats*. There are six in total, representing different ways of solving problems:
 
@@ -57,11 +66,11 @@ Your character has a set of *Prime Attribulations*. Normal people call them *Bas
 
 Each of these stats can factor into your *Factored Attribulations*--or, as people who need to get things done might call them, your *Derived Stats*.
 
-# The Derived Stats
+## The Derived Stats
 
 Derived Stats are calculated by adding other stats together.
 
-## Classpect Score
+### Classpect Score
 Your Classpect Score is the sum of your Class's Primary Attribute and your Aspect's Primary Attribute, and it contributes to a lot of different things. Basically, if you build up the stats that are core to your classpect, you get a buff to almost everything else as a reward. Check out the Classpects chapter for details on each Class and Aspect.
 
 For example, if you're the Seer (Brainitude) of Light (Scamperway), your Classpect Score is your Brainitude plus your Scamperway.
@@ -72,66 +81,73 @@ Whenever you want to do something cool, and it's not covered by another Derived 
 
 The GM may rule that your action does not befit your Classpect or your status as a Player; if that happens, you're stuck using base stats, which is way less powerful.
 
-## Strife Score
+### Strife Score
 Your Strife Score measures your ability to kick ass and take names; you can lean on it whenever you need to go punch something.
 
 Strife Score has a special function: you gain Grist equal to your Strife Score whenever your party decides to Grind (more on that in the Grinding chapter).
 
 Your Strife Score is calculated by your Grit plus your Classpect Score.
 
-## Vial Score
+### Vial Score
 Your Vial Score measures your ability to take hits and keep going; it governs the effects that incoming threats have on you.
 
 Your Vial Score is calculated by your Viscosity plus your Classpect Score.
 
-## Puzzle Score
+### Puzzle Score
 Your Puzzle Score measures your ability to put up with Weird Puzzle Shit, including the needlessly-confusing and overly complex interface of SBURB. You can even use it in place of your Strife Score if you can come up with a suitably puzzly way to defeat an enemy.
 
 Your Puzzle Score is calculated by your Brainitude plus your Classpect Score.
 
-## Abilitech Score
+### Abilitech Score
 Your Abilitech Score measures your ability to manifest and wield your Aspect. Essentially, whenever you want to do something magical with your Class and Aspect, you use this.
 
 Your Abilitech Score is calculated by your Moxie plus your Classpect Score.
 
-## Reactivity Score
+### Reactivity Score
 Your Reactivity Score measures your ability to get to things quickly or react before other people do. If you're trying to do something faster than someone else, your Reactivity Score is what applies.
 
 Your Reactivity Score is calculated by your Scamperway plus your Classpect Score.
 
-## Chutzpah Score
+### Chutzpah Score
 Your Chutzpah Score measures the cut of your jib, and how much other people like it. If you want to convince people you're a hero, this is how.
 
 Your Chutzpah Score is calculated by your Pulchritude plus your Classpect Score.
 
-## Gambit Score
+### Gambit Score
 Your Gambit Score is special; you decide what it's for. Maybe your character is particularly fond of practical jokes, and thus has a *Prankster's Gambit*. Maybe you're prone to doing a somersault off the nearest door-latch when things get a little too heated, so you have a *Chillaxification Gambit*. Maybe you enjoy the occult a bit too much, so your Gambit is a *Sanatos Gambit*.
 
 Whatever the case may be, the Gambit Score is a unique thing that your character is particularly good at or prone to doing. It's especially useful because you get to pick *TWO* Basic Stats to add to it, meaning that you can improve it steadily while spreading your stat points across more than one thing. Make sure you also write down *what your Gambit applies to*, because that's unique too.
 
 Your Gambit Score is calculated by your Classpect Score plus both Basic Stats you picked for it.
 
-# Predefined Stats
+## Predefined Stats
 There's also *Static Attribulations*, or stats that are always the same for new characters. These can change over the course of a game, but they always start out a certain way.
 
-## Alcheminsignia Rank
-Your Alcheminsignia Rank determines the limits of your ability to Alchemize weapons. You can still *receive* weapons more powerful than your Alcheminsignia Rank would allow, but you cannot *Alchemize new ones* until you've improved your Alcheminsignia Rank. For more details, check out the chapter on Grist and Alchemy.
+### Alcheminsignia Rank and Alchemized Items
+You'll need to set aside some space--probably a page or more--for Alchemy, and at the top of that page, you should mark your Alcheminsignia Rank. Your Alcheminsignia Rank determines the limits of your ability to Alchemize weapons. You can still *receive* weapons more powerful than your Alcheminsignia Rank would allow, but you cannot *Alchemize new ones* until you've improved your Alcheminsignia Rank. For more details, check out the chapter on Grist and Alchemy.
 
 You can increase your Alcheminsignia Rank by:
 - Visiting a new Land
 - Completing Quests for your Consorts
 - Capping out your Echeladder
 
-Your Alcheminsignia Rank starts at 1.
+Your Alcheminsignia Rank starts at 1. You start out with no Alchemized Items.
 
-## Echeladder Rung
+### Echeladder Rung
 Your Echeladder is a measure of how far you've come, an indicator of your prowess and growth as you journey through SBURB. This mostly translates to getting new stuff for fighting things, weirdly enough. For each Echeladder Rung you ascend to, you gain stat points (see below).
 
 You can increase your Echeladder Rung by achieving various almighty tasks, most of which involve fighting things. Echeladder Rungs will be awarded by the GM for various accomplishments, particularly fighting new things and fighting more powerful things.
 
 Your Echeladder Rung starts at 0, because you're an ordinary boring {insert species here}.
 
-## Roleplay Proficiency
+### Homelevation Level and House Features
+You'll need at least one page set aside for listing House Features; at the top of that page, mark your Homelevation Level. Your Homelevation Level goes up by 1 for every 3 House Features you build. At every 5th Homelevation Level, you unlock access to another player's Land--or if you've already unlocked access to everyone's Lands, you start unlocking access to certain important dungeons (the GM will explain this to you when the time comes).
+
+Aside from measuring how many House Features you have, your Homelevation Level also determines the cost of future House Features. The more you build, the harder it gets to build things that'll stay up. For more details, check out the chapter on House Features.
+
+Your Homelevation Level starts out at zero, because your house is an ordinary house and your first 3 House Features--the basic Alchemy machines--are free. Once you've Entered, you'll achieve Homelevation Level 1, and will start building a home to be proud of.
+
+### Roleplay Proficiency
 Your Roleplay Proficiency is a bonus that you build up by developing as a character. The GM should award RP for doing things that:
 - Show off your character's struggle with their flaws, especially if they line up with your character's Class or Aspect
 - Involve your character making a tough decision, especially if it involves something their Class or Aspect would do
@@ -144,7 +160,7 @@ If you have at least 1 RP, you can Appeal To The Audience to multiply your stat 
 
 Your Roleplay Proficiency starts at 0, because you haven't done anything interesting yet.
 
-# Increasing your Stats
+## Increasing your Stats
 At character creation, you get three points to distribute across your six base stats. Regular, boring, ordinary people aren't exactly mighty champions, after all.
 
 However, over time you'll get to improve your base stats. Specifically, *ascending your Echeladder* grants you *Stat Points* (see the Echeladder chapter for more info about Echeladders). Each Rung you Ascend to grants 3 Stat Points. Each Stat Point can be spent to increase a Stat, 1-for-1.

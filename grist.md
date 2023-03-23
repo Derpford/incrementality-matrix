@@ -2,11 +2,14 @@
 There are many, many types of Grist, which are used to build various kinds of stuff and things. Roughly speaking, there are two categories of Grist:
 
 - Build Grist, which is always available, and
-- Land Grist, which is specific to certain Lands.
+- Strife Grist, which is specific to certain Lands.
 
-You choose what kind of Grist is available on your Land during Entry. Each Land has three types of Grist on it, plus Build Grist, for a total of four options when you go Grinding. Bear in mind that, if you have unlocked access to another player's Land, you can get Grist from *their* Land as well as from yours.
+You choose what kind of Grist is available on your Land during Entry. Each Land has three types of Strife Grist on it, plus Build Grist, for a total of four options when you go Grinding. Bear in mind that, if you have unlocked access to another player's Land, you can get Grist from *their* Land as well as from yours.
 
-Each kind of Grist other than Build Grist also has an associated stat, which you picked during Entry. This is relevant for Alchemy, so be sure to write it down.
+Build Grist is used to make House Features, which are described in more detail in the chapter on your House.
+
+Strife Grist is used both for House Features and for Alchemy. Each kind of Strife Grist also has an associated stat, which you picked during Entry. This is relevant for Alchemy, so be sure to write it down.
+
 # Gathering Grist
 Grist can be gathered by Grinding--taking some time to fight various smaller enemies so that you can gather lots of little bits of Grist. You can also receive large supplies of Grist from defeating major bosses, but for the most part, you'll rely on Grinding to acquire more Grist.
 
@@ -14,9 +17,10 @@ Grinding can only be done if everyone in the party agrees to it. If someone want
 
 Once everyone's agreed to grind, everyone gains an amount of Grist of any type equal to their Strife Score or their Abilitech Score, whichever's higher. You can split this between any number of Grist types, as long as you have access to them (i.e., they're on your Land or on a Land you can get to).
 
-Bear in mind that Grinding will not always be free. Depending on what's going on in the session, the GM may decide that something has happened while you were out grinding, or may inform you that a terrible fate is creeping closer...
+Bear in mind that Grinding will not always be free. Depending on what's going on in the session, the GM may decide that something has happened while you were out grinding, or may inform you that a terrible fate is creeping closer…
+
 # Grist and Alchemy
-Once you've added the Cruxtruder, Totem Lathe, Alchemiter, and Punch Designix to your House, you can start using Grist to alchemize things.
+Once you've added the Cruxtruder, Totem Lathe, Alchemiter, and Punch Designix House Features to your House, you can start using Grist to alchemize things.
 
 ## Step 1: Decide what you're going to make
 Most of the time, you're going to be Alchemizing some kind of equipable item--something you can put in your Strife Specibus, some new clothes to make you look cooler *and* harder to kill, or something that grants you some kind of tangible benefit. Whatever the case, these items are all grouped together as your *Portfolio*. Items in your Portfolio contribute bonuses to your Base Stats, which then increase your Derived Stats. Note that you don't have to decide what you have equipped--every item you've made provides its bonus at all times. You're always juggling between weapons in combat, after all--this is SBURB.
