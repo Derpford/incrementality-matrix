@@ -15,7 +15,7 @@ Grist can be gathered by Grinding--taking some time to fight various smaller ene
 
 Grinding can only be done if everyone in the party agrees to it. If someone wants to do something important, that comes first! Grinding can always wait for later.
 
-Once everyone's agreed to grind, everyone gains an amount of Grist of any type equal to their Strife Score or their Abilitech Score, whichever's higher. You can split this between any number of Grist types, as long as you have access to them (i.e., they're on your Land or on a Land you can get to).
+Once everyone's agreed to grind, everyone gains an amount of Grist of any type equal to their Strife Score plus their Abilitech Score. You can split this between any number of Grist types, as long as you have access to them (i.e., they're on your Land or on a Land you can get to).
 
 Bear in mind that Grinding will not always be free. Depending on what's going on in the session, the GM may decide that something has happened while you were out grinding, or may inform you that a terrible fate is creeping closer…
 

@@ -20,6 +20,23 @@ To figure out what happens, compare the difficulty to whatever stat is applicabl
 2. If the Scales match, compare your stat's *Simple Value* to the difficulty's SV. If your SV is higher than the difficulty's SV, you pulled off a regular, ordinary success. If your stat's SV is *lower* than the difficulty's SV, you screwed up, but not too badly.
 3. If the Scales *and* the SVs match, you have to make a decision. You can still succeed, but it's at a cost--the GM will describe what you must sacrifice to win. If you really, genuinely cannot decide, compare the *Full Value* of your stat to the difficulty's Full Value. If *those* are tied, flip a coin; if heads, you win, if tails, you lose.
 
+### A Rough Sense of Scale
+Here's some difficulty number examples. The "Example Tasks" are things that someone at the listed skill level would succeed at about 50% of the time (not counting the d12).
+
+| Difficulty Number   | Skill Level            | Example Tasks                                                                                                                                            |
+|---------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 (Scale 1)         | Average Teenager       | Opening a jar of pickles, figuring out the controls for a video game, convincing someone that you're cool                                                |
+| 2                   | Average Adult          | Moving furniture, figuring out your taxes, convincing someone that you're a responsible adult                                                            |
+| 5                   | High-tier Adult        | Competitive sports, doing trigonometry without getting a headache, convincing someone to give you their credit card info                                 |
+| 9                   | Peak Mortal Capability | Running a marathon, advanced theoretical physics, convincing someone to stop giving out their credit card info                                           |
+| 10 (Scale 2)        | Start of the Game      | Taking out an Imp in one hit, figuring out the SBURB building interface without a FAQ, convincing a Consort to give you free boondollars                 |
+| 100 (Scale 3)       | Early Advances         | Taking down an Ogre in one hit, understanding basic ectobiology, bribing a low-level Dersite                                                             |
+| 1,000 (Scale 4)     | Mid-Game               | Slaying a Basilisk in one hit, plotting out the Time player's actual timelines during combat, convincing a low-level Dersite to help you without a bribe |
+| 10,000 (Scale 5)    | Mid-Lategame           | Defeating a Lich in one hit, understanding what the Horrorterrors are saying, convincing a Carapacian King to put down his scepter                       |
+| 100,000 (Scale 6)   | Late-Game              | Defeating a Giclops in one hit, understanding why you should stop translating the Horrorterrors, convincing Consorts to actually fight anything          |
+| 1,000,000 (Scale 7) | God Tier               | Defeating the Denizen, successfully solving The Choice, convincing SBURB that you are good at SBURB                                                      |
+
+
 ### Rolling Anyway
 If you absolutely, positively *must* have some randomness in your life--or if you're in the early parts of the game and your stats are tiny--you can roll a d12 and add it to your stat before determining the results of an action. In the *really* early stages, this can let you punch above your weight class by upgrading you from Scale 1 to Scale 2. It stops being useful pretty quick, though.
 
